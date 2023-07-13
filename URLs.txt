@@ -1,0 +1,5 @@
+Repository: https://github.com/jcpv9824/github-final-project
+License: https://github.com/jcpv9824/github-final-project/blob/main/LICENSE
+README: https://github.com/jcpv9824/github-final-project/blob/main/README.md
+Code of conduct: https://github.com/jcpv9824/github-final-project/blob/main/CODE_OF_CONDUCT.md
+Contributing document: https://github.com/jcpv9824/github-final-project/blob/main/CONTRIBUTING.md
